@@ -21,6 +21,16 @@ A simple and responsive Blog Web Application built using Node.js, Express.js, an
 
 ---
 
+## Live Project
+
+🔗 https://blog-app-sn3g.onrender.com
+
+## GitHub Repository
+
+🔗 https://github.com/Muskan-K-Soni/Blog-App
+
+---
+
 ## What I Learned
 
 - Express.js routing
