@@ -23,11 +23,11 @@ A simple and responsive Blog Web Application built using Node.js, Express.js, an
 
 ## Live Project
 
-🔗 https://blog-app-sn3g.onrender.com
+[Live Project Link](https://blog-app-sn3g.onrender.com)
 
 ## GitHub Repository
 
-🔗 https://github.com/Muskan-K-Soni/Blog-App
+[GitHub Repository Link](https://github.com/Muskan-K-Soni/Blog-App)
 
 ---
 
