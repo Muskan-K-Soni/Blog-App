@@ -49,11 +49,7 @@ A simple and responsive Blog Web Application built using Node.js, Express.js, an
 - EJS
 
 ---
-
-## Author
-
-- Muskan Kumari
-
+ 
 
 
 
